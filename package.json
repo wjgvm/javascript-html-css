@@ -1,0 +1,29 @@
+{
+  "name": "javascrip-html",
+  "version": "1.0.0",
+  "description": "practica personal de javascript html css",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "node javascript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+remote+add+origin+https://github.com/wjgvm/javascript-html-css.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "render",
+    "etc."
+  ],
+  "author": "William Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjgvm/javascript-html-css/issues"
+  },
+  "homepage": "https://github.com/wjgvm/javascript-html-css#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}

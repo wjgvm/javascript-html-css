@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+remote+add+origin+https://github.com/wjgvm/javascript-html-css.git"
+    "url": "git+https://github.com/wjgvm/javascript-html-css.git"
   },
   "keywords": [
     "html",
